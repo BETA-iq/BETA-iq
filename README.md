@@ -21,8 +21,13 @@
 
 ### [+] My GitHub Stats
 <p align="center">
-  <a href="https://github.com/BETA-iq"><img src="https://github-readme-stats.vercel.app/api?username=BETA-iq&show_icons=true&theme=transparent" height="165"/></a>
-  <a href="https://github.com/BETA-iq"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BETA-iq&layout=compact&theme=tokyonight" height="165"/></a></p>
+  <a href="https://github.com/BETA-iq">
+    <img src="https://github-readme-stats.vercel.app/api?username=BETA-iq&show_icons=true&theme=transparent" height="165"/>
+  </a>
+  <a href="https://github.com/BETA-iq">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BETA-iq&layout=compact&theme=tokyonight" height="165" width="300"/>
+  </a>
+</p>
 
 ### [+] Connect with me
 <p align="center">
