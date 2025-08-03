@@ -14,13 +14,6 @@
 
 ---
 
-### [+] My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BETA-iq&show_icons=true&theme=transparent" />
-</p>
-
----
-
 ### [+] Skills Stack
 - Discord API / SelfBots
 - Node.js (Express, Axios, @discordjs/voice, Canvas)
@@ -29,6 +22,13 @@
 - SQLite / JSON Data Systems
 - Frontend Tweaks (UI/UX for Discord Interactions)
 - Code Optimization & Automation Pipelines (pm2, Express servers)
+
+---
+
+### [+] My GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BETA-iq&show_icons=true&theme=transparent" />
+</p>
 
 ---
 
